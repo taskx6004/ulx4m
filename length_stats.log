@@ -1,0 +1,2 @@
+10-19 12:21:04 STDERR 345:/home/mistery/InteractiveHtmlBom/dialog/settings_dialog.py:30: wxPyDeprecationWarning: Call to deprecated item. Use SetSizeHints instead.
+10-19 12:21:04 STDERR 345:  self.SetSizeHintsSz(sz1, sz2)
